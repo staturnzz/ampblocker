@@ -9,9 +9,9 @@
  ./build.sh
  ```
  
- 
  ### Usage:
  ```bash
  ./ampblocker <start/stop> -f
  ```
  *argument '-f' is optional and only for force starting/stopping*
+
