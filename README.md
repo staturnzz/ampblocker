@@ -12,5 +12,6 @@
  
  ### Usage:
  ```bash
- ./ampblocker <start/stop> (optional force start/stop) -f
+ ./ampblocker <start/stop> -f
  ```
+ *argument '-f' is optional and only for force starting/stopping*
