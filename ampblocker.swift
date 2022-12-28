@@ -1,4 +1,6 @@
 // ampblocker.swift by staturnz @0x7FF7
+// https://github.com/staturnzz/ampblocker
+
 
 import Foundation
 
