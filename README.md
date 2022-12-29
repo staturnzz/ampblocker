@@ -5,8 +5,7 @@
  ```bash
  git clone https://github.com/staturnzz/ampblocker.git
  cd ampblocker
- chmod +x build.sh
- ./build.sh
+ make all
  ```
  
  ### Usage:
